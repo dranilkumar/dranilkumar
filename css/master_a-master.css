@@ -1,0 +1,45 @@
+#u416
+{
+	background-color: #FFFFFF;
+	position: fixed;
+}
+
+#u557
+{
+	position: fixed;
+}
+
+#u265-4,#u267-4,#u266-4,#u268-4,#u269-4
+{
+	background-color: transparent;
+	color: #99D2DB;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: fixed;
+}
+
+.js #u416.ose_pre_init,.js #u557.ose_pre_init,.js #u265-4.ose_pre_init,.js #u267-4.ose_pre_init,.js #u266-4.ose_pre_init,.js #u268-4.ose_pre_init,.js #u269-4.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u631-4
+{
+	background-color: transparent;
+	opacity: 0.41;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=41)";
+	filter: alpha(opacity=41);
+	color: #A1C0D2;
+	line-height: 52px;
+	text-align: center;
+	text-transform: none;
+	font-size: 48px;
+	font-family: pacifico, cursive;
+	font-weight: 400;
+}
+
