@@ -1,23 +1,18 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="profileuk.com" resolutions="1x" timestamp="1437277475785">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="doctoranilnair.com" resolutions="1x" timestamp="1437391279663">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-master.css" crc="3994557474" ref="index"/>
-    <file name="index.css" crc="90468041" ref="index"/>
-    <file name="master_anil_master.css" crc="3805694905" ref="anilkumarindex"/>
-    <file name="anilkumarindex.css" crc="3882684138" ref="anilkumarindex"/>
+    <file name="master_comingsoon_master.css" crc="339750074" ref="index"/>
+    <file name="index.css" crc="4137989934" ref="index"/>
+    <file name="iefonts_index.css" crc="3793760989" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:anilkumarindex"/>
-    <file name="museutils.js" crc="183364071" ref="index:anilkumarindex"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index:anilkumarindex"/>
-    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:anilkumarindex"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="3809930845" ref="index"/>
-    <file name="uknewlogodesign.svg" crc="4200033159" ref="index"/>
-    <file name="uknewlogodesign_poster_.png" crc="4253764483" ref="index"/>
-    <file name="anil_master-favicon.ico" crc="3809930845" ref="anilkumarindex"/>
+    <file name="comingsoon_master-favicon.ico" crc="3809930845" ref="index"/>
   </folder>
-  <file name="index.html" crc="4078473303" seo="true" mt="1437277155063" redirect="true"/>
-  <file name="anilkumarindex.html" crc="4071399087" seo="true" mt="1437277418253" redirect="true"/>
+  <file name="index.html" crc="278845951" seo="true" mt="1437390888282" redirect="true"/>
 </manifest>

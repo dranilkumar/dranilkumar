@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000005;
-	background-color: #646EC9;
+	color: #0000F6;
+	background-color: #A4B72E;
 }
 
 .html
@@ -13,145 +13,74 @@
 {
 	z-index: 1;
 	width: 1000px;
-	min-height: 3491.75px;
+	min-height: 904px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
-	background-color: #FFFFFF;
-	padding-bottom: 0px;
+	background-color: transparent;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
-	padding-top: 384px;
-	padding-bottom: 2414px;
+	padding-top: 81px;
+	padding-bottom: 186px;
 	width: 0.01px;
 }
 
-#u416
+#u1257
 {
-	z-index: 20;
+	z-index: 12;
 	height: 86px;
 	top: -5px;
 }
 
-#u416-bw
+#u1257-bw
 {
-	z-index: 20;
+	z-index: 12;
 }
 
-#u557
+#u1263-4
 {
-	z-index: 41;
-	top: 2px;
-	left: 50%;
-	margin-left: -390px;
+	z-index: 13;
+	width: 416px;
+	min-height: 152px;
+	margin-left: 294px;
 }
 
-#u265-4
+#u1268-4
 {
-	z-index: 29;
-	width: 113px;
-	min-height: 28px;
-	top: 38px;
-	left: 50%;
-	margin-left: -66px;
+	z-index: 17;
+	width: 416px;
+	min-height: 166px;
+	margin-left: 294px;
 }
 
-#u267-4
-{
-	z-index: 21;
-	width: 113px;
-	min-height: 28px;
-	top: 38px;
-	left: 50%;
-	margin-left: 47px;
-}
-
-#u266-4
-{
-	z-index: 33;
-	width: 113px;
-	min-height: 28px;
-	top: 38px;
-	left: 50%;
-	margin-left: 161px;
-}
-
-#u268-4
-{
-	z-index: 25;
-	width: 113px;
-	min-height: 28px;
-	top: 38px;
-	left: 50%;
-	margin-left: 274px;
-}
-
-#u269-4
-{
-	z-index: 37;
-	width: 113px;
-	min-height: 28px;
-	top: 38px;
-	left: 50%;
-	margin-left: 387px;
-}
-
-#u631-4,#u631-4-bw
-{
-	z-index: 42;
-	min-height: 62px;
-}
-
-#aboutme
-{
-	left: -72px;
-	margin-top: 521px;
-	position: relative;
-}
-
-#pu644-4
-{
-	width: 0.01px;
-	margin-left: 298px;
-	margin-top: 42px;
-}
-
-#u644-4
-{
-	z-index: 16;
-	width: 286px;
-	min-height: 89px;
-	background-color: transparent;
-	color: #A1C0D2;
-	line-height: 93px;
-	font-size: 72px;
-	letter-spacing: 0px;
-	font-family: abel, sans-serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 287px;
-}
-
-#u627-14
+#u1242-6
 {
 	z-index: 2;
-	width: 392px;
-	min-height: 379px;
-	background-color: transparent;
-	color: #6C6C64;
-	line-height: 19px;
-	font-size: 15px;
-	letter-spacing: 0px;
-	font-family: abel, sans-serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	left: 290px;
+	min-height: 158px;
+}
+
+#u1242-6-bw
+{
+	z-index: 2;
+	min-height: 158px;
+	margin-top: 92px;
+}
+
+#u1269-4
+{
+	z-index: 8;
+	min-height: 64px;
+}
+
+#u1269-4-bw
+{
+	z-index: 8;
+	min-height: 64px;
+	margin-top: 6px;
 }
 
 body
